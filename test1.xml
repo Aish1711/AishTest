@@ -184,6 +184,14 @@ CATALOG>
 <YEAR>1968</YEAR>
 </CD>
 <CD>
+<TITLE>Unchain my heart -1</TITLE>
+<ARTIST>Joe Cocker -1</ARTIST>
+<COUNTRY>USA -1</COUNTRY>
+<COMPANY>EMI -1</COMPANY>
+<PRICE>8.20 -1</PRICE>
+<YEAR>1987 -1</YEAR>
+</CD>
+<CD>
 <TITLE>Picture book</TITLE>
 <ARTIST>Simply Red</ARTIST>
 <COUNTRY>EU</COUNTRY>
@@ -209,3 +217,15 @@ CATALOG>
 <YEAR>1987</YEAR>
 </CD>
 </CATALOG>
+<<<<<<< HEAD
+=======
+<CD>
+<TITLE>Picture book1</TITLE>
+<ARTIST>Simply Red1</ARTIST>
+<COUNTRY>EU1</COUNTRY>
+<COMPANY>Elektra1</COMPANY>
+<PRICE>7.201</PRICE>
+<YEAR>19851</YEAR>
+</CD>
+
+>>>>>>> branch_test1
