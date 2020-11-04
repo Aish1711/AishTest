@@ -199,6 +199,7 @@ CATALOG>
 <PRICE>7.80</PRICE>
 <YEAR>1987</YEAR>
 </CD>
+<A temp tag> Just for test </A temp tag>
 <CD>
 <TITLE>Unchain my heart</TITLE>
 <ARTIST>Joe Cocker</ARTIST>
